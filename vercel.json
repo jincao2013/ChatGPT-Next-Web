@@ -2,6 +2,7 @@
     "github": {
         "silent": true
     },
+    "regions": ["sin1"],
     "headers": [
         {
             "source": "/(.*)",
